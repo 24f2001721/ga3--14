@@ -1,0 +1,10 @@
+{
+  "name": "playwright-scraper",
+  "version": "1.0.0",
+  "dependencies": {
+    "playwright": "^1.40.0"
+  },
+  "scripts": {
+    "start": "node scrape.js"
+  }
+}
